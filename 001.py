@@ -78,4 +78,4 @@ while True:
 					
 	clock.tick()
 	pygame.display.flip()
-	pygame.image.save(screen , str(count)+".bmp")
+
