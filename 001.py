@@ -58,8 +58,9 @@ except:
 
 background_color = randColor()
 screen.fill(background_color)
-
+count = 0
 while True:
+	count += 1
 	#move all colliders
 	for c in colliders:
 		c.move()
@@ -77,3 +78,4 @@ while True:
 					
 	clock.tick()
 	pygame.display.flip()
+	pygame.image.save(screen , str(count)+".bmp")
