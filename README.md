@@ -9,12 +9,3 @@ Dependencies:
   Python3
   
   Pygame
-
-
-If you want to Donate some Cryptocurrency:
-
-ZRC: ZUSpa2BYDcjv1JS5Jfa4NZ9yvTWQhna2FJ
-
-LTC: LY6cbPMAnHZhKczFtF6Fzmamqvqt8odeNt 
-
-BTC: 1Mbaa2nLgBBoLRf8esvpF5i9acjatAwKit
